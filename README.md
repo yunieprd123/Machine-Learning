@@ -1,1 +1,0 @@
-This project involves applying machine learning techniques to analyze data and gain meaningful insights. The dataset can be accessed at [https://drive.google.com/drive/folders/131GwonPpff3FLVmBO7XI8hCqtvoxYcDJ?usp=sharing](https://drive.google.com/drive/folders/131GwonPpff3FLVmBO7XI8hCqtvoxYcDJ?usp=sharing).
